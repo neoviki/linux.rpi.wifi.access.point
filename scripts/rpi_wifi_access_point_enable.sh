@@ -1,3 +1,9 @@
+#	Utility to setup Raspberry Pi as WiFi Access Point
+#
+#			Author: Viki (a) Vignesh Natarajan
+#			Contact: vikiworks.io
+#
+
 WIFI_SSID="pi_wifi"
 WIFI_PASS="test123"
 
